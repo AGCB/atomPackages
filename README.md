@@ -28,6 +28,9 @@ shows you colored boxes around any color values. hex, shortname, rgb, etc.
 ## minimap-pigments
 Binding for the minimap
 
+## color-picker
+  ControlAltC brings up a color-picker. Press enter to have the code dropped at cursor local
+
 ## react-snippets
 40+ snippets starting with underscore
 
